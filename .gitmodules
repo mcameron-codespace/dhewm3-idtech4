@@ -1,0 +1,3 @@
+[submodule "assets/D3Base"]
+	path = assets/D3Base
+	url = https://github.com/mcameron-codespace/Doom3-Starter-Kit.git

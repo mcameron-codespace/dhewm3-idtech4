@@ -1,6 +1,0 @@
-lights/defaultPointLight
-{
-	{
-		map	textures/lightdata/defaultpointlight.tga
-	}
-}
