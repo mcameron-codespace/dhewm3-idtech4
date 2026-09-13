@@ -1,0 +1,6 @@
+console
+{
+	{
+		map	textures/console.tga
+	}
+}

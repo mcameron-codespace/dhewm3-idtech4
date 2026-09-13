@@ -1,0 +1,6 @@
+lights/defaultProjectedLight
+{
+	{
+		map	textures/lightdata/defaultprojectedlight.tga
+	}
+}

@@ -1,0 +1,6 @@
+textures/bigchars
+{
+	{
+		map	textures/bigchars.tga
+	}
+}

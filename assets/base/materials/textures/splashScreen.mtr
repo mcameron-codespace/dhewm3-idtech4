@@ -1,0 +1,6 @@
+splashScreen
+{
+	{
+		map	textures/splashScreen.tga
+	}
+}
